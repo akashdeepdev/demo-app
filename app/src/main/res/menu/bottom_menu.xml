@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mapFragment" android:icon="@drawable/baseline_map_24" android:iconTint="@color/black" android:title="Map" />
+    <item android:id="@+id/listFragment" android:icon="@drawable/baseline_format_list_bulleted_24" android:iconTint="@color/black" android:title="List" />
+    <item android:id="@+id/loginFragment" android:icon="@drawable/baseline_login_24" android:iconTint="@color/black" android:title="Login" />
+</menu>
